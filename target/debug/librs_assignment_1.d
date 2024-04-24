@@ -1,0 +1,1 @@
+/home/jackb/SyncDocs/Rust/rs_assignment_1/target/debug/librs_assignment_1.rlib: /home/jackb/SyncDocs/Rust/rs_assignment_1/src/lib.rs /home/jackb/SyncDocs/Rust/rs_assignment_1/src/source.rs /home/jackb/SyncDocs/Rust/rs_assignment_1/src/tests.rs

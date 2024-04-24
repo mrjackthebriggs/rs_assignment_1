@@ -1,0 +1,935 @@
+<word>
+aa
+acronym for Associate in Arts a college degree granted for successful completion of a two-year course of study in arts or general topics;  Alcoholics Anonymous.
+n
+</word>
+<word>
+adam
+a male name
+pn
+</word>
+<word>
+aaas
+the American Association for the Advancement of Science an organization with headquarters in Washington D.C. Its goal is to advance the physical and social sciences and it publishes a weekly journal Science with original research articles as well as reviews and commentary.
+n
+</word>
+<word>
+aam
+A Dutch and German measure of liquids varying in different cities being at Amsterdam about 41 wine gallons at Antwerp 3612 at Hamburg 3814.
+n
+</word>
+<word>
+aardvark
+An edentate mammal of the genus Orycteropus (Orycteropus afer) somewhat resembling a pig common in some parts of Southern Africa. It is a nocturnal ungulate burrows in the ground with its powerful claws and feeds entirely on ants and termites which it catches with its long extensile slimy tongue. It is the sole extant representative of the order Tubulidentata.
+n
+</word>
+<word>
+aard-wolf
+A carnivorous striped quadruped mammal (Proteles cristata formerly Proteles Lalandii) of South Africa resembling the fox and hyena. It feeds chiefly on insects. See Proteles.
+n
+</word>
+<word>
+aaronic
+Pertaining to Aaron the first high priest of the Jews.
+adj
+</word>
+<word>
+aarons-rod
+A rod with one serpent twined around it thus differing from the caduceus of Mercury which has two;  A plant with a tall flowering stem; esp. the great mullein or hag-taper and the golden-rod.
+misc
+</word>
+<word>
+aas
+an associate degree conferred for successful studies in applied science;  a loose sleeveless outer garment made from aba cloth; worn by Arabs.
+n
+</word>
+<word>
+ab
+The fifth month of the Jewish year according to the ecclesiastical reckoning the eleventh by the civil computation coinciding nearly with August.
+n
+</word>
+<word>
+ab-
+A prefix in many words of Latin origin. It signifies from away  separating or departure as in abduct abstract abscond. See A-(6).
+misc
+</word>
+<word>
+abaca
+The Manila-hemp plant (Musa textilis); also its fiber. See Manila hemp under Manila.
+n
+</word>
+<word>
+abacinate
+To blind by a red-hot metal plate held before the eyes.
+v
+</word>
+<word>
+abacination
+The act of abacinating.
+n
+</word>
+<word>
+abaciscus
+One of the tiles or squares of a tessellated pavement; an abaculus.
+n
+</word>
+<word>
+abacist
+One who uses an abacus in casting accounts; a calculator.
+n
+</word>
+<word>
+aback
+Toward the back or rear; backward;  Behind; in the rear;  Backward against the mast; -- said of the sails when pressed by the wind;  An abacus.
+adv
+</word>
+<word>
+abactinal
+Pertaining to the surface or end opposite to the mouth in a radiate animal; -- opposed to actinal.
+adj
+</word>
+<word>
+abaction
+Stealing cattle on a large scale.
+n
+</word>
+<word>
+abactor
+One who steals and drives away cattle or beasts by herds or droves.
+n
+</word>
+<word>
+abaculus
+A small tile of glass marble or other substance of various colors used in making ornamental patterns in mosaic pavements.
+n
+</word>
+<word>
+abacus
+A table or tray strewn with sand anciently used for drawing calculating etc;  A calculating table or frame; an instrument for performing arithmetical calculations by balls sliding on wires or counters in grooves the lowest line representing units the second line tens etc. It is still employed in China;  The uppermost member or division of the capital of a column immediately under the architrave. See Column;  A board tray or table divided into perforated compartments for holding cups bottles or the like; a kind of cupboard buffet or sideboard.
+n
+</word>
+<word>
+abada
+The rhinoceros.
+n
+</word>
+<word>
+abaddon
+The destroyer or angel of the bottomless pit; -- the same as Apollyon and Asmodeus;  Hell; the bottomless pit.
+n
+</word>
+<word>
+abaft
+Behind; toward the stern from; as abaft the wheelhouse;  Toward the stern; aft; as to go abaft.
+prep
+</word>
+<word>
+abaisance
+Obeisance.
+n
+</word>
+<word>
+abaiser
+Ivory black or animal charcoal.
+n
+</word>
+<word>
+abaist
+Abashed; confounded; discomfited.
+v
+</word>
+<word>
+abalienate
+To transfer the title of from one to another; to alienate;  To estrange; to withdraw;  To cause alienation of (mind).
+v
+</word>
+<word>
+abalienation
+The act of abalienating; alienation; estrangement.
+n
+</word>
+<word>
+abalone
+A univalve mollusk of the genus Haliotis. The shell is lined with mother-of-pearl and used for ornamental purposes; the sea-ear. Several large species are found on the coast of California clinging closely to the rocks.
+n
+</word>
+<word>
+abampere
+a unit of electrical current equal to 10 amperes.
+n
+</word>
+<word>
+aband
+To abandon;  To banish; to expel.
+v
+</word>
+<word>
+abandon
+To cast or drive out; to banish; to expel; to reject;  To give up absolutely; to forsake entirely ; to renounce utterly; to relinquish all connection with or concern on; to desert as a person to whom one owes allegiance or fidelity; to quit; to surrender;  Reflexively: To give (one's self) up without attempt at self-control; to yield (one's self) unrestrainedly; -- often in a bad sense;  To relinquish all claim to; -- used when an insured person gives up to underwriters all claim to the property covered by a policy which may remain after loss or damage by a peril insured against;  Abandonment; relinquishment;  A complete giving up to natural impulses; freedom from artificial constraint; careless freedom or ease.
+v
+</word>
+<word>
+abandoned
+Forsaken deserted;  Self-abandoned or given up to vice; extremely wicked or sinning without restraint; irreclaimably wicked ; as an abandoned villain.
+adj
+</word>
+<word>
+abandonedly
+Unrestrainedly.
+adv
+</word>
+<word>
+abandonee
+One to whom anything is legally abandoned.
+n
+</word>
+<word>
+abandoner
+One who abandons.
+n
+</word>
+<word>
+abandonment
+The act of abandoning or the state of being abandoned; total desertion; relinquishment;  The relinquishment by the insured to the underwriters of what may remain of the property insured after a loss or damage by a peril insured against;  The relinquishment of a right claim or privilege as to mill site etc;  Careless freedom or ease; abandon.
+n
+</word>
+<word>
+abandum
+Anything forfeited or confiscated.
+n
+</word>
+<word>
+abanet
+See Abnet.
+n
+</word>
+<word>
+abanga
+A West Indian palm; also the fruit of this palm the seeds of which are used as a remedy for diseases of the chest.
+n
+</word>
+<word>
+abannation
+Banishment.
+n
+</word>
+<word>
+abarticulation
+Articulation usually that kind of articulation which admits of free motion in the joint; diarthrosis;  To lower or depress; to throw or cast down; as to abase the eye;  To cast down or reduce low or lower as in rank office condition in life or estimation of worthiness; to depress; to humble; to degrade.
+n
+</word>
+<word>
+abased
+Lowered; humbled;  Borne lower than usual as a fess; also having the ends of the wings turned downward towards the point of the shield.
+adj
+</word>
+<word>
+abasedly
+Abjectly; downcastly.
+adv
+</word>
+<word>
+abasement
+The act of abasing humbling or bringing low; the state of being abased or humbled; humiliation.
+n
+</word>
+<word>
+abaser
+He who or that which abases.
+n
+</word>
+<word>
+abash
+To destroy the self-possession of; to confuse or confound as by exciting suddenly a consciousness of guilt mistake or inferiority; to put to shame; to disconcert; to discomfit.
+v
+</word>
+<word>
+abashedly
+In an abashed manner.
+adv
+</word>
+<word>
+abashment
+The state of being abashed; confusion from shame.
+n
+</word>
+<word>
+abasia
+Inability to coordinate muscular actions properly in walking.
+n
+</word>
+<word>
+abassi
+A silver coin of Persia worth about twenty cents.
+n
+</word>
+<word>
+abatable
+Capable of being abated; as an abatable writ or nuisance.
+adj
+</word>
+<word>
+abate
+To beat down; to overthrow;  To bring down or reduce from a higher to a lower state number or degree; to lessen; to diminish; to contract; to moderate; to cut short; as to abate a demand; to abate pride zeal hope;  To deduct; to omit; as to abate something from a price;  To blunt;  To reduce in estimation; to deprive;  To bring entirely down or put an end to; to do away with; as to abate a nuisance to abate a writ;  To decrease or become less in strength or violence; as pain abates a storm abates; To be defeated or come to naught; to fall through; to fail; as a writ abates;  Abatement.
+v
+</word>
+<word>
+abatement
+The act of abating or the state of being abated; a lessening diminution or reduction; removal or putting an end to; as the abatement of a nuisance is the suppression thereof;  The amount abated; that which is taken away by way of reduction; deduction; decrease; a rebate or discount allowed;  A mark of dishonor on an escutcheon;  The entry of a stranger without right into a freehold after the death of the last possessor before the heir or devisee.
+n
+</word>
+<word>
+abater
+One who or that which abates.
+n
+</word>
+<word>
+abatis
+A means of defense formed by felled trees the ends of whose branches are sharpened and directed outwards or against the enemy.
+n
+</word>
+<word>
+abatised
+Provided with an abatis.
+adj
+</word>
+<word>
+abator
+One who abates a nuisance.
+n
+</word>
+<word>
+abattoir
+A public slaughterhouse for cattle sheep etc.
+n
+</word>
+<word>
+abature
+Grass and sprigs beaten or trampled down by a stag passing through them.
+n
+</word>
+<word>
+abatvoix
+The sounding-board over a pulpit or rostrum.
+n
+</word>
+<word>
+abawed
+Astonished; abashed.
+v
+</word>
+<word>
+abaxial
+Away from the axis or central line; eccentric.
+adj
+</word>
+<word>
+abay
+Barking; baying of dogs upon their prey. See Bay.
+n
+</word>
+<word>
+abb
+Among weavers yarn for the warp. Hence abb wool is wool for the abb.
+n
+</word>
+<word>
+abba
+Father; religious superior; -- in the Syriac Coptic and Ethiopic churches a title given to the bishops and by the bishops to the patriarch.
+n
+</word>
+<word>
+abbacy
+The dignity estate or jurisdiction of an abbot.
+n
+</word>
+<word>
+abbatial
+Belonging to an abbey; as abbatial rights.
+adj
+</word>
+<word>
+abbatical
+Abbatial.
+adj
+</word>
+<word>
+abbe
+The French word answering to the English abbot the head of an abbey; but commonly a title of respect given in France to every one vested with the ecclesiastical habit or dress.
+n
+</word>
+<word>
+abbess
+A female superior or governess of a nunnery or convent of nuns having the same authority over the nuns which the abbots have over the monks. See Abbey.
+n
+</word>
+<word>
+abbey
+A monastery or society of persons of either sex secluded from the world and devoted to religion and celibacy; also the monastic building or buildings;  The church of a monastery.
+n
+</word>
+<word>
+abbot
+The superior or head of an abbey;  One of a class of bishops whose sees were formerly abbeys.
+n
+</word>
+<word>
+abbotship
+The state or office of an abbot.
+n
+</word>
+<word>
+abbreviate
+To make briefer; to shorten; to abridge; to reduce by contraction or omission especially of words written or spoken;  To reduce to lower terms as a fraction;  Abbreviated; abridged; shortened; Having one part relatively shorter than another or than the ordinary type;  An abridgment.
+v
+</word>
+<word>
+abbreviated
+Shortened; relatively short; abbreviate.
+adj
+</word>
+<word>
+abbreviation
+The act of shortening or reducing;  The result of abbreviating; an abridgment;  The form to which a word or phrase is reduced by contraction and omission; a letter or letters standing for a word or phrase of which they are a part; as Gen. for Genesis; U.S.A. for United States of America;  One dash or more through the stem of a note dividing it respectively into quavers semiquavers or demi-semiquavers.
+n
+</word>
+<word>
+abbreviator
+One who abbreviates or shortens;  One of a college of seventy-two officers of the papal court whose duty is to make a short minute of a decision on a petition or reply of the pope to a letter and afterwards expand the minute into official form.
+n
+</word>
+<word>
+abbreviatory
+Serving or tending to abbreviate; shortening; abridging.
+adj
+</word>
+<word>
+abbreviature
+An abbreviation; an abbreviated state or form;  An abridgment; a compendium or abstract.
+n
+</word>
+<word>
+abb-wool
+See Abb.
+misc
+</word>
+<word>
+a-b-c
+The first three letters of the alphabet used for the whole alphabet;  A primer for teaching the alphabet and first elements of reading;  The simplest rudiments of any subject; as the A B C of finance.
+misc
+</word>
+<word>
+abdal
+A religious devotee or dervish in Persia.
+n
+</word>
+<word>
+abderian
+Given to laughter; inclined to foolish or incessant merriment.
+adj
+</word>
+<word>
+abderite
+An inhabitant of Abdera in Thrace.
+n
+</word>
+<word>
+abdest
+Purification by washing the hands before prayer; -- a Mohammedan rite.
+n
+</word>
+<word>
+abdicable
+Capable of being abdicated.
+adj
+</word>
+<word>
+abdicant
+Abdicating; renouncing; -- followed by of;  One who abdicates.
+adj
+</word>
+<word>
+abdicate
+To surrender or relinquish as sovereign power; to withdraw definitely from filling or exercising as a high office station dignity; as to abdicate the throne the crown the papacy;  To renounce; to relinquish; -- said of authority a trust duty right etc;  To reject; to cast off;  To disclaim and expel from the family as a father his child; to disown; to disinherit;  To relinquish or renounce a throne or other high office or dignity.
+v
+</word>
+<word>
+abdication
+The act of abdicating; the renunciation of a high office dignity or trust by its holder; commonly the voluntary renunciation of sovereign power; as abdication of the throne government power authority.
+n
+</word>
+<word>
+abdicative
+Causing or implying abdication.
+adj
+</word>
+<word>
+abdicator
+One who abdicates.
+n
+</word>
+<word>
+abditive
+Having the quality of hiding.
+adj
+</word>
+<word>
+abditory
+A place for hiding or preserving articles of value.
+n
+</word>
+<word>
+abdomen
+The belly or that part of the body between the thorax and the pelvis. Also the cavity of the belly which is lined by the peritoneum and contains the stomach bowels and other viscera. In man often restricted to the part between the diaphragm and the commencement of the pelvis the remainder being called the pelvic cavity;  The posterior section of the body behind the thorax in insects crustaceans and other Arthropoda.
+n
+</word>
+<word>
+abdominal
+Of or pertaining to the abdomen; ventral; as the abdominal regions muscles cavity;  Having abdominal fins; belonging to the Abdominales; as abdominal fishes;  A fish of the group Abdominales.
+adj
+</word>
+<word>
+abdominales
+A group including the greater part of fresh-water fishes and many marine ones having the ventral fins under the abdomen behind the pectorals.
+n
+</word>
+<word>
+abdominalia
+A group of cirripeds having abdominal appendages.
+n
+</word>
+<word>
+abdominoscopy
+Examination of the abdomen to detect abdominal disease.
+n
+</word>
+<word>
+abdominothoracic
+Relating to the abdomen and the thorax or chest.
+adj
+</word>
+<word>
+abdominous
+Having a protuberant belly; pot-bellied.
+adj
+</word>
+<word>
+abdominousness
+distension of the stomach area due to overweight.
+n
+</word>
+<word>
+abduce
+To draw or conduct away; to withdraw; to draw to a different part.
+v
+</word>
+<word>
+abducens
+a small motor nerve supplying the lateral rectus muscle of the eye.
+n
+</word>
+<word>
+abducent
+a small motor nerve supplying the lateral rectus muscle of the eye;  drawing away from the midline of the body or from an adjacent part; -- especially of muscles.
+n
+</word>
+<word>
+abduct
+To take away surreptitiously by force; to carry away (a human being) wrongfully and usually by violence; to kidnap;  To draw away as a limb or other part from its ordinary position.
+v
+</word>
+<word>
+abducting
+drawing away from the midline of the body or from an adjacent part; -- used especially of muscles.
+adj
+</word>
+<word>
+abduction
+The act of abducing or abducting; a drawing apart; a carrying away;  The movement which separates a limb or other part from the axis or middle line of the body;  The wrongful and usually the forcible carrying off of a human being; as the abduction of a child the abduction of an heiress;  A syllogism or form of argument in which the major is evident but the minor is only probable.
+n
+</word>
+<word>
+abductor
+One who abducts;  A muscle which serves to draw a part out or form the median line of the body; as the abductor oculi which draws the eye outward.
+n
+</word>
+<word>
+abeam
+On the beam that is on a line which forms a right angle with the ship's keel; opposite to the center of the ship's side.
+adv
+</word>
+<word>
+abear
+To bear; to behave;  To put up with; to endure.
+v
+</word>
+<word>
+abearance
+Behavior.
+n
+</word>
+<word>
+abearing
+Behavior.
+n
+</word>
+<word>
+abecedarian
+One who is learning the alphabet; hence a tyro;  One engaged in teaching the alphabet;  Pertaining to or formed by the letters of the alphabet; alphabetic; hence rudimentary.
+n
+</word>
+<word>
+abecedary
+A primer; the first principle or rudiment of anything.
+n
+</word>
+<word>
+abegge
+Same as Aby.
+misc
+</word>
+<word>
+abele
+The white poplar (Populus alba).
+n
+</word>
+<word>
+abelian
+One of a sect in Africa (4th century) mentioned by St. Augustine who states that they married but lived in continence after the manner as they pretended of Abel.
+n
+</word>
+<word>
+abelmoschus
+genus of tropical coarse herbs having large lobed leaves and often yellow flowers.
+n
+</word>
+<word>
+abelmosk
+An evergreen shrub (Abelmoschus moschatus -- formerly Hibiscus moschatus) of the East and West Indies and Northern Africa whose musky seeds are used in perfumery and to flavor coffee; -- sometimes called musk mallow. The seeds produce ambrette-seed oil.
+n
+</word>
+<word>
+aber-de-vine
+The European siskin (Carduelis spinus) a small green and yellow finch related to the goldfinch.
+n
+</word>
+<word>
+aberr
+To wander; to stray.
+v
+</word>
+<word>
+aberrance
+the state or condition of being aberrant; a wandering from the right way; deviation from truth rectitude etc.
+n
+</word>
+<word>
+aberrancy
+an aberrant state or condition.
+n
+</word>
+<word>
+aberrant
+Wandering; straying from the right way;  Deviating from the ordinary or natural type; exceptional; abnormal.
+adj
+</word>
+<word>
+aberrate
+To go astray; to diverge.
+v
+</word>
+<word>
+aberration
+The act of wandering; deviation especially from truth or moral rectitude from the natural state or from a type;  A partial alienation of reason;  A small periodical change of position in the stars and other heavenly bodies due to the combined effect of the motion of light and the motion of the observer; called annual aberration when the observer's motion is that of the earth in its orbit and daily or diurnal aberration when of the earth on its axis; amounting when greatest in the former case to 20.4'' and in the latter to 0.3''. Planetary aberration is that due to the motion of light and the motion of the planet relative to the earth;  The convergence to different foci by a lens or mirror of rays of light emanating from one and the same point or the deviation of such rays from a single focus; called spherical aberration when due to the spherical form of the lens or mirror such form giving different foci for central and marginal rays; and chromatic aberration when due to different refrangibilities of the colored rays of the spectrum those of each color having a distinct focus;  The passage of blood or other fluid into parts not appropriate for it;  The producing of an unintended effect by the glancing of an instrument as when a shot intended for A glances and strikes B.
+n
+</word>
+<word>
+aberrational
+Characterized by aberration.
+adj
+</word>
+<word>
+aberuncate
+To weed out.
+v
+</word>
+<word>
+aberuncator
+A weeding machine.
+n
+</word>
+<word>
+abet
+To instigate or encourage by aid or countenance; -- used in a bad sense of persons and acts; as to abet an ill-doer; to abet one in his wicked courses; to abet vice; to abet an insurrection;  To support uphold or aid; to maintain; -- in a good sense;  To contribute as an assistant or instigator to the commission of an offense;  Act of abetting; aid.
+v
+</word>
+<word>
+abetment
+The act of abetting; as an abetment of treason crime etc.
+n
+</word>
+<word>
+abettal
+Abetment.
+n
+</word>
+<word>
+abetter
+One who abets; an instigator of an offense or an offender.
+n
+</word>
+<word>
+abevacuation
+A partial evacuation.
+n
+</word>
+<word>
+abeyance
+Expectancy; condition of being undetermined;  Suspension; temporary suppression.
+n
+</word>
+<word>
+abeyancy
+Abeyance.
+n
+</word>
+<word>
+abeyant
+Being in a state of abeyance.
+adj
+</word>
+<word>
+abgeordnetenhaus
+See Legislature Austria Prussia.
+n
+</word>
+<word>
+abhal
+The berries of a species of cypress in the East Indies.
+n
+</word>
+<word>
+abhominable
+Abominable.
+adj
+</word>
+<word>
+abhominal
+Inhuman.
+adj
+</word>
+<word>
+abhor
+To shrink back with shuddering from; to regard with horror or detestation; to feel excessive repugnance toward; to detest to extremity; to loathe;  To fill with horror or disgust;  To protest against; to reject solemnly;  To shrink back with horror disgust or dislike; to be contrary or averse; -- with.
+v
+</word>
+<word>
+abhorrence
+Extreme hatred or detestation; the feeling of utter dislike.
+n
+</word>
+<word>
+abhorrency
+Abhorrence.
+n
+</word>
+<word>
+abhorrent
+Abhorring; detesting; having or showing abhorrence; loathing; hence strongly opposed to; as abhorrent thoughts;  Contrary or repugnant; discordant; inconsistent; -- followed by to;  Detestable.
+adj
+</word>
+<word>
+abhorrently
+With abhorrence.
+adv
+</word>
+<word>
+abhorrer
+One who abhors.
+n
+</word>
+<word>
+abhorrible
+Detestable.
+adj
+</word>
+<word>
+abhorring
+Detestation;  Object of abhorrence.
+n
+</word>
+<word>
+abib
+The first month of the Jewish ecclesiastical year corresponding nearly to our April. After the Babylonish captivity this month was called Nisan.
+n
+</word>
+<word>
+abidance
+The state of abiding; abode; continuance; compliance (with).
+n
+</word>
+<word>
+abide
+To wait; to pause; to delay;  To stay; to continue in a place; to have one's abode; to dwell; to sojourn; -- with with before a person and commonly with at or in before a place;  To remain stable or fixed in some state or condition; to continue; to remain;  To wait for; to be prepared for; to await; to watch for; as I abide my time; To endure; to sustain; to submit to; To bear patiently; to tolerate; to put up with; To stand the consequences of; to answer for; to suffer for.
+v
+</word>
+<word>
+abider
+One who abides or continues;  One who dwells; a resident.
+n
+</word>
+<word>
+abiding
+Continuing; lasting.
+adj
+</word>
+<word>
+abidingly
+Permanently.
+adv
+</word>
+<word>
+abies
+A genus of coniferous trees properly called Fir as the balsam fir and the silver fir. The spruces are sometimes also referred to this genus.
+n
+</word>
+<word>
+abietene
+A volatile oil distilled from the resin or balsam of the nut pine (Pinus sabiniana) of California.
+n
+</word>
+<word>
+abietic
+Of or pertaining to the fir tree or its products; as abietic acid called also sylvic acid.
+adj
+</word>
+<word>
+abietin
+A resinous obtained from Strasburg turpentine or Canada balsam. It is without taste or smell is insoluble in water but soluble in alcohol (especially at the boiling point) in strong acetic acid and in ether.
+n
+</word>
+<word>
+abietinic
+Of or pertaining to abietin; as abietinic acid.
+adj
+</word>
+<word>
+abietite
+A substance resembling mannite found in the needles of the common silver fir of Europe (Abies pectinata).
+n
+</word>
+<word>
+abigail
+A lady's waiting-maid.
+n
+</word>
+<word>
+abiliment
+Habiliment.
+n
+</word>
+<word>
+ability
+The quality or state of being able; power to perform whether physical moral intellectual conventional or legal; capacity; skill or competence in doing; sufficiency of strength skill resources etc.; -- in the plural faculty talent.
+n
+</word>
+<word>
+abime
+A abyss.
+n
+</word>
+<word>
+abiogenesis
+The supposed origination of living organisms from lifeless matter; such genesis as does not involve the action of living parents; spontaneous generation; -- called also abiogeny and opposed to biogenesis.
+n
+</word>
+<word>
+abiogenetic
+Of or pertaining to abiogenesis.
+adj
+</word>
+<word>
+abiogenist
+One who believes that life can be produced independently of antecedent.
+n
+</word>
+<word>
+abiogenous
+Produced by spontaneous generation.
+adj
+</word>
+<word>
+abiogeny
+Same as Abiogenesis.
+n
+</word>
+<word>
+abiological
+Pertaining to the study of inanimate things.
+adj
+</word>
+<word>
+abirritant
+A medicine that diminishes irritation.
+n
+</word>
+<word>
+abirritate
+To diminish the sensibility of; to debilitate.
+v
+</word>
+<word>
+abirritation
+A pathological condition opposite to that of irritation; debility; lack of strength; asthenia.
+n
+</word>
+<word>
+abirritative
+Characterized by abirritation or debility.
+adj
+</word>
+<word>
+abit
+3d sing. pres. of Abide.
+misc
+</word>
+<word>
+abject
+Cast down; low-lying;  Degraded; servile; groveling; despicable; as abject posture fortune thoughts;  Sunk to a low condition; down in spirit or hope; miserable; -- of persons;  Humiliating; degrading; wretched; -- of situations; as abject poverty;  To cast off or down; hence to abase; to degrade; to lower; to debase;  A person in the lowest and most despicable condition; a castaway.
+adj
+</word>
+<word>
+abjectedness
+A very abject or low condition; abjectness.
+n
+</word>
+<word>
+abjection
+The act of bringing down or humbling;  The state of being rejected or cast out;  A low or downcast state; meanness of spirit; abasement; degradation.
+n
+</word>
+<word>
+abjectly
+Meanly; servilely.
+adv
+</word>
+<word>
+abjectness
+The state of being abject; abasement; meanness; servility.
+n
+</word>
+<word>
+abjudge
+To take away by judicial decision.
+v
+</word>
+<word>
+abjudicate
+To reject by judicial sentence; also to abjudge.
+v
+</word>
+<word>
+pissing
+Where you piss
+v
+</word>
